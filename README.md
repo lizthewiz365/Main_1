@@ -18,6 +18,10 @@ The importance of our team’s project is that it will explore how each type of 
 # 3.0	PROJECT DESCRIPTION
 Figure 3.1 below provides a visual representation of our team’s project topic Alternative Solar Technologies.  This figure depicts the types of solar technologies the project will cover: solar glass, passive solar, bio-photovoltaics, solar thermal, and concentrated solar.  In this project, each member will thoroughly investigate a designated solar technology to answer the developed research question at hand.  Within the following subsections, I will break down the significance of each member’s subtopic.
 
+![](Desktop/Picture1.png)
+
+**Figure 3.1: Solar energy subtopics [4]**
+
 **3.1 Solar Glass**
 
 For the subtopic on Solar Glass, Channasya will research the impact of surface texturing of glass upon energy production.  She will also explore the comparison between transparent solar glass and regular rooftop solar panels.  This subtopic will give insight into how effective solar glass can be as a material for construction.  Additionally, it will portray how solar glass will become a large step towards innovation within the field of solar technology.
