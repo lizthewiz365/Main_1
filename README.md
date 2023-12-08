@@ -46,11 +46,19 @@ In summary, I hope this project proposal will be accepted for my group to be abl
 # Glossary
 
 ***Bio-photovoltaics*** – a solar technology where light energy is converted into electrical energy through microorganisms involved in photosynthesis [6].  Photosynthesis is a process where light is converted into chemical energy by plants [9].  It is one of the solar technologies discussed in this project.
+
 ***Concentrated solar*** – a solar technology using mirrors to reflect and concentrate sunlight towards a certain point, converting it to heat.  The heat is then used to produce steam to power a turbine to generate electricity [7].  It is one of the main solar technologies covered in this project.
+
 ***Greenhouse gases*** – gases involved in absorbing and trapping heat in the air.  Some examples of greenhouse gases are carbon dioxide, methane, nitrous oxide, and water vapour [5].  Greenhouse gases are an environmental issue in which can be resolved by renewable energy alternatives such as solar power, as discussed in this proposal.
+
 ***Passive solar*** – a type of solar technology that transforms light energy into heat and allows the motion of air for building ventilation [15].  It is another type of solar technology explored by this project.
+
 ***Radiation*** – a form of energy that travels from any source throughout space at light speed [2].  It can also be known as electromagnetic waves [2].  Solar energy is an example of radiation emitted by the sun [1].
+
 ***Solar glass*** – a type of solar technology that acts as an alternative building material for building components such as rooves and windows; it simultaneously produces electricity when exposed to sunlight [8].  It is an additional solar technology this project will cover.
+
 ***Solar panel*** – a device used to harness sunlight to produce electricity or heat [10].  Solar panels are incorporated within energy processes that are specific to the alternative solar technologies covered in this project.
+
 ***Solar thermal*** – a type of solar technology that uses light energy to increase the temperature of a fluid with heat [11].  This is a final solar technology discussed in this project.
+
 ***Surface texturing*** – is a process involving the roughening of a surface to reduce reflection of the surface, improving the performance and efficiency of solar cells [12].  As stated in section 3, the subtopic on Solar Glass will explore the impact of this process upon the production of energy.
