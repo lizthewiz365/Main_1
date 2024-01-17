@@ -10,7 +10,7 @@ def cell_movie(): # define function for creating cell movie
         frame = cv2.imread(os.path.join(directory,files[0])) # reads each file in the directory folder as a frame
         height, width, layers = frame.shape # set variables for height, width and layers of shape of each frame
         
-        video = cv2.VideoWriter("cellmovie.avi", 0, 10, (width, height)) # saves output video to a directory with desired fps, width and height
+        video = cv2.VideoWriter("cellmovie.avi", 0, 5, (width, height)) # saves output video to a directory with desired fps, width and height
         
         for file in files: # loops over each file in the folder to joins them together to create a video
                 video.write(cv2.imread(os.path.join(directory,file)))
@@ -20,3 +20,13 @@ def cell_movie(): # define function for creating cell movie
         
 
 cell_movie()
+
+
+
+
+
+       
+        
+        
+        
+        
