@@ -51,6 +51,17 @@ A window function is a mathematical function that is zero-valued outside of a ce
 ***Frequency Domain Filters***
 A frequency domain filter is a filter that is multiplied by the Fourier transform of an image in the frequency domain.  
 
+# Task 8
+
+**Edge-Detection Mask**
+
+***Average Mask***
+***Sobel Mask***
+***Prewitt Mask***
+***Laplace Mask***
+***Gabor Mask***
+***Robert Cross***
+
 ***Back projection***
 Back projection helps with recording how well pixels in an image fit the pixel distribution in a histogram model.
 
