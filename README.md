@@ -38,5 +38,19 @@ Histogram Matching is where an image is transformed such that its histogram matc
 ***Contrast Stretching***
 Contrast Stretching involves improving the contrast of an image by stretching the intensity range to span a desired range of values.
 
+# Task 7
 
+**Frequency Operations**
+
+***The Frequency Domain***
+The frequency domain of an image is the space in which the pixel values of an image change within the spatial domain.  The spatial domain is the space where the image pixel values change concerning position.  
+
+***Window Functions***
+A window function is a mathematical function that is zero-valued outside of a certain interval.  It can be used to reduce the unwanted high-frequencies in the image Fourier transform.  A Fourier transform represents an image as a combination of various frequencies.
+
+***Frequency Domain Filters***
+A frequency domain filter is a filter that is multiplied by the Fourier transform of an image in the frequency domain.  
+
+***Back projection***
+Back projection helps with recording how well pixels in an image fit the pixel distribution in a histogram model.
 
