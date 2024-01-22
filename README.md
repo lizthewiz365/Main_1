@@ -24,5 +24,19 @@ A Laplacian filter computes the second derivatives of an image, measuring the ra
 The frequency domain of an image is the space in which the pixel values of an image change within the spatial domain.  The spatial domain is the space where the image pixel values change concerning position.  
 
 **What is the histogram of an image?**
+The histogram of an image is a graph representing the number of pixels in an image as a function of pixel intensity.  It consists of bins, where each bin represents a certain intensity value range.  It is produced by examining all pixels in an image and assigning each pixel to a bin based on pixel intensity.
+
+***Contrast Enchancement***
+Contrast Enhancement is a technique that improves how objects are seen in an image by enhancing the brightness difference between the objects and their backgrounds.
+
+***Histogram Equalization***
+Histogram Equalization is a technique used to improve the contrast in an image. This is done by spreading out the most frequent pixel intensity values within an image histogram until it achieves a desired histogram.
+
+***Histogram Matching***
+Histogram Matching is where an image is transformed such that its histogram matches a specific histogram.  This is achieved by calculating the cumulative distribution functions of the input and target images' histograms, F1 and F2 respectively.  Then for each gray level of the input image, G1, the gray level of the target image G2 is found, such that F1(G1) = F2(G2).  Finally, this leads to the desired result.
+
+***Contrast Stretching***
+Contrast Stretching involves improving the contrast of an image by stretching the intensity range to span a desired range of values.
+
 
 
